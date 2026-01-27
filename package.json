@@ -22,7 +22,7 @@
   "dependencies": {
     "@mdn/yari": "1.17.5",
     "cross-env": "7.0.3",
-    "env-cmd": "10.1.0",
+    "env-cmd": "11.0.0",
     "markdownlint-cli": "0.32.2",
     "prettier": "2.7.1"
   }
